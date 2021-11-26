@@ -1,5 +1,6 @@
 [
   {
-    "package": "hospitals"
+    "package": "hospitals",
+    "oncran": false
   }
 ]
