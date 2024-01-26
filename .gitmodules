@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/nhs-pt/universe
+	url = https://github.com/nhs-pt/nhs-pt.r-universe.dev
 	branch = HEAD
 [submodule "hospitals"]
 	path = hospitals
